@@ -1,6 +1,6 @@
 ¡Hola! 👋 Soy Hans!!!
-![logo1](![illustration-of-anonymous-hacker-wear-vendetta-mask-and-hoodie-concept-in-cartoon-free-vector](https://github.com/user-attachments/assets/22d54067-f1bd-4779-8bc0-386c6f67a5dc)
-)
+![illustration-of-anonymous-hacker-wear-vendetta-mask-and-hoodie-concept-in-cartoon-free-vector](https://github.com/user-attachments/assets/22d54067-f1bd-4779-8bc0-386c6f67a5dc)
+
 
 Soy un estudiante de Ingeniería de Sistemas, apasionado por resolver problemas con código limpio y eficiente. Me encanta explorar el mundo del desarrollo web, Big Data y IoT mientras aprendo y aplico nuevas tecnologías para hacer la vida más sencilla y accesible.
 
